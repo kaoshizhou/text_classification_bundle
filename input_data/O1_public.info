@@ -1,0 +1,16 @@
+usage = 'Test'
+name = 'O1'
+task = 'multiclass.classification'
+metric = 'bac_multiclass'
+feat_type = 'Numerical'
+feat_num = 1
+target_num = 1
+label_num = 2
+train_num = 6233
+valid_num = 1559
+test_num = 1821
+has_categorical = 0
+has_missing = 0
+is_sparse = 0
+time_budget = 600
+input_type = 'text'

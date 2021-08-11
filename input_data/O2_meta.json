@@ -1,0 +1,7 @@
+{
+    "class_num": 20,
+    "train_num": 11314,
+    "test_num": 7532,
+    "language": "EN",
+    "time_budget": 2400
+}
